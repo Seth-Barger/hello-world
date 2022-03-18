@@ -1,2 +1,1 @@
-# hello-world
-Introduction to GitHub
+Repository created to learn GitHub
